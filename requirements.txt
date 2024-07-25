@@ -1,0 +1,6 @@
+### dependency
+streamlit
+pandas==1.3.5
+
+### local packages -
+-e . 
